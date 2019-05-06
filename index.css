@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+header {
+    background-color: #1f1f1f;
+    color: #ffffff;
+    width: 100%;
+    padding: 50px;
+}
+nav {
+    background-color: #e06c00;
+    color: #ffffff;
+    width: 30%;
+    padding: 50px;
+}
+section {
+    width: 70%;
+    padding: 50px;
+}
+footer {
+    background-color: #838383;
+    color: #ffffff;
+    padding: 50px;
+    width: 100%;
+}
+p {
+    padding-top: 20px; 
+}
